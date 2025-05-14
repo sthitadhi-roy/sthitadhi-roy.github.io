@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+ # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -14,20 +14,22 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+  url: /files/cv_SthitadhiRoy.pdf
+    #url: /cv/
+    
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
