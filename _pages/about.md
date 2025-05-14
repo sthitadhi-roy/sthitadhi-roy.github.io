@@ -13,17 +13,13 @@ I am a member of the faculty at the International Centre for Theoretical Science
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 ### Brief CV
-- **Reader-F** (February 2022 - Present)
-
-  International Centre for Theoretical Sciences, Tata Institute of Fundamental Research
-
+- **Reader-F** (February 2022 - Present)  
+  International Centre for Theoretical Sciences, Tata Institute of Fundamental Research  
   Bangalore, India
 
-- **Postdoctoral Research Associate** (November 2017 - January 2022)
-
-  Condensed Matter Theory group
-  
-  University of Oxford, UK
+- **Postdoctoral Research Associate** (November 2017 - January 2022)  
+  Condensed Matter Theory group  
+  University of Oxford, UK  
 
 - **Ph.D. in Theoretical Physics** (July 2013 - November 2017)
   Max-Planck-Institut für Physik komplexer Systeme, Dresden, Germany
