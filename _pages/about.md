@@ -14,11 +14,15 @@ I am a member of the faculty at the International Centre for Theoretical Science
 
 ### Brief CV
 - **Reader-F** (February 2022 - Present)
+
   International Centre for Theoretical Sciences, Tata Institute of Fundamental Research
+
   Bangalore, India
 
 - **Postdoctoral Research Associate** (November 2017 - January 2022)
+
   Condensed Matter Theory group
+  
   University of Oxford, UK
 
 - **Ph.D. in Theoretical Physics** (July 2013 - November 2017)
