@@ -21,11 +21,11 @@ I am a member of the faculty at the International Centre for Theoretical Science
   Condensed Matter Theory group  
   University of Oxford, UK  
 
-- **Ph.D. in Theoretical Physics** (July 2013 - November 2017)
-  Max-Planck-Institut für Physik komplexer Systeme, Dresden, Germany
+- **Ph.D. in Theoretical Physics** (July 2013 - November 2017)  
+  Max-Planck-Institut für Physik komplexer Systeme, Dresden, Germany  
   Thesis title: Nonequilibrium and semiclassical dynamics in topological phases of quantum matter
 
-- **Master of Science (integrated) Physics** (July 2008 - May 2013)
+- **Master of Science (integrated) Physics** (July 2008 - May 2013)  
   Indian Institute of Technology, Kanpur, India 
 
 
@@ -35,8 +35,20 @@ I am a member of the faculty at the International Centre for Theoretical Science
 - Click [here](https://scholar.google.com/citations?user=dup_yX8AAAAJ&hl=en) for my Google Scholar profile
  
 
+### Contact
 
-Getting started
+##### Email:
+- sthitadhi.roy@icts.res.in
+- sthitadhi91@gmail.com
+
+##### Address:
+H-202  
+International Centre for Theoretical Sciences, TIFR  
+Survey No. 151, Shivakote,  
+Bengaluru 560089, India  
+Phone:  +918046536120
+
+<!-- a
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -67,4 +79,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

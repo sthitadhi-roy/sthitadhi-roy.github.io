@@ -6,7 +6,10 @@ main:
     url: /talks/
 
   - title: "CV"
-    url: /files/cv_SthitadhiRoy.pdf    
+    url: /files/cv_SthitadhiRoy.pdf
+
+  - title: "People"
+    url: /people/    
 
   # - title: "Teaching"
   #   url: /teaching/    
