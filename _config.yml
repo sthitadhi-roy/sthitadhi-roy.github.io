@@ -22,12 +22,12 @@ repository               : "sthitadhi-roy/sthitadhi-roy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_photoSR.jpg"
   name             : "Sthitadhi Roy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Reader-F (Assistant Professor)"
+  employer         : "ICTS-TIFR"
   location         : "Bangalore, India"
-  employer         : "International Centre for Theoretical Sciences, Tata Institute of Fundamental Research"
   uri              : # URL
   email            : "sthitadhi.roy@icts.res.in" 
 
@@ -36,7 +36,7 @@ author:
   arxiv            : "https://arxiv.org/a/roy_s_5.html"
   googlescholar    : "https://scholar.google.com/citations?user=dup_yX8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2152-472X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

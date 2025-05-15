@@ -8,25 +8,30 @@ redirect_from:
 ---
 
 Hello !  
-I am a member of the faculty at the [International Centre for Theoretical Sciences, Tata Institue of Fundamental Research, Bengaluru](https://icts.res.in). My current research interests broadly revolve around the out-of-equilibrium dynamics of strongly correlated quantum many body systems in the presence and absence of disorder. Please click here for a more detailed summary of my research.
+I am a member of the faculty at the [International Centre for Theoretical Sciences, Tata Institue of Fundamental Research, Bengaluru](https://icts.res.in). My current research interests broadly revolve around the out-of-equilibrium dynamics of strongly correlated quantum many body systems in the presence and absence of disorder. Some of the specific research directions that I am currently working on are:  
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
+- spatiotemporal structure of information scrambling in quantum many-body systems
+- entanglement phases of quantum matter in measurement-unitary hybrid dynamics
+- dynamics of chaos in quantum and classical many-body systems
+- many-body localisation in disordered quantum systems
+
+
 
 ### Brief CV
 - **Reader-F** (February 2022 - Present)  
-  International Centre for Theoretical Sciences, Tata Institute of Fundamental Research  
+  [International Centre for Theoretical Sciences, Tata Institute of Fundamental Research](https://icts.res.in)  
   Bangalore, India
 
 - **Postdoctoral Research Associate** (November 2017 - January 2022)  
-  [Condensed Matter Theory group  ](https://www.physics.ox.ac.uk/research/group/condensed-matter-theory)
+  [Condensed Matter Theory group](https://www.physics.ox.ac.uk/research/group/condensed-matter-theory)  
   University of Oxford, UK  
 
 - **Ph.D. in Theoretical Physics** (July 2013 - November 2017)  
-  Max-Planck-Institut für Physik komplexer Systeme, Dresden, Germany  
+  [Max-Planck-Institut für Physik komplexer Systeme, Dresden, Germany](https://www.pks.mpg.de)  
   Thesis title: Nonequilibrium and semiclassical dynamics in topological phases of quantum matter
 
 - **Master of Science (integrated) Physics** (July 2008 - May 2013)  
-  Indian Institute of Technology, Kanpur, India 
+  [Indian Institute of Technology, Kanpur, India](https://www.iitk.ac.in)   
 
 
 ### Publications
