@@ -22,7 +22,7 @@ repository               : "sthitadhi-roy/sthitadhi-roy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_photoSR.jpg"
+  avatar           : "bio_photoSR.JPG"
   name             : "Sthitadhi Roy"
   pronouns         : # example: "she/her"  
   bio              : "Reader-F (Assistant Professor)"
@@ -32,7 +32,7 @@ author:
   email            : "sthitadhi.roy@icts.res.in" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.icts.res.in/people/sthitadhi-roy"
   arxiv            : "https://arxiv.org/a/roy_s_5.html"
   googlescholar    : "https://scholar.google.com/citations?user=dup_yX8AAAAJ&hl=en"
   impactstory      : # URL
