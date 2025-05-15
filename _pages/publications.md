@@ -2,7 +2,7 @@
 layout:archiv
 title:"Publications
 permalink:/publications
-author_profile:tru
+author_profile:true
 ---
 
 {% if site.author.googlescholar %}
