@@ -23,16 +23,46 @@ author_profile: true
 
 ### Journal Articles
 
-- **Sthitadhi Roy**, "Spectral Multifractality and Emergent Energyscales Across the Many-Body Localisation Transition", [Phys. Rev. B 111, 184201 (2025)][arXiv:2404.07975](https://arxiv.org/abs/2404.07975)
-- Sandipan Manna, **Sthitadhi Roy**, and G. J. Sreejith, "Projected ensemble in a system with locally supported conserved charges", [Phys. Rev. B 111, 144302 (2025)][arXiv:2501.01823](https://arxiv.org/abs/2501.01823)
-- Bikram Pain and **Sthitadhi Roy**, "Entanglement dynamics and eigenstate correlations in strongly disordered quantum many-body systems", [Phys. Rev. B 110, 224201 (2024)][arXiv:2406.09392](https://arxiv.org/abs/2406.09392)
-- **Sthitadhi Roy** and D. E. Logan, "The Fock-space landscape of many-body localisation",  (invited Topical Review article) [J. Phys.:Condens. Matter 37, 073003 (2025)][arXiv:2408.12685](https://arxiv.org/abs/2408.12685)
-- Bikram Pain, Kritika Khanwal, and **Sthitadhi Roy**, "The connection between Hilbert-space return probability and real-space autocorrelations in quantum spin chains" [Phys. Rev. B 108, L140201 (2023) (Letter)] [arXiv:2305.06374](https://arxiv.org/abs/2305.06374)
-- Soumi Ghosh, Manas Kulkarni, and **Sthitadhi Roy**, "Eigenvector Correlations Across the Localisation Transition in non-Hermitian Power-Law Banded Random Matrices"[Phys. Rev. B 108, L060201 (2023) (Letter)] [arXiv:2304.09892](https://arxiv.org/abs/2304.09892)
-- **Sthitadhi Roy**, "Anatomy of localisation protected quantum order on Hilbert space", (*Invited article for J. Phys.:Condens. Matter special issue -- Emerging Leaders 2023*)[J. Phys.:Condens. Matter 35, 415601 (2023)][arXiv:2307.06702](https://arxiv.org/abs/2307.06702)
-- Isabel Creed, David E. Logan, and **Sthitadhi Roy**, "Probability transport on the Fock space of a disordered quantum spin chain", [Phys.Rev. B 107, 094206 (2023)][arXiv:2212.14333](https://arxiv.org/abs/2212.14333)
-- Adam Nahum, **Sthitadhi Roy**, Sagar Vijay, and Tianci Zhou, "Real-time correlators in chaotic quantum many-body systems", [Phys. Rev. B 106, 224310 (2022)][arXiv:2205.11544](https://arxiv.org/abs/2205.11544)
-- **Sthitadhi Roy**, "Hilbert-space correlations beyond multifractality and bipartite entanglement in many-body localised systems", [Phys. Rev. B 106, L140204 (2022) (Letter)][arXiv:2208.08468](https://arxiv.org/abs/2208.08468)
+- Spectral Multifractality and Emergent Energyscales Across the Many-Body Localisation Transition  
+  **Sthitadhi Roy**  
+  [[Phys. Rev. B 111, 184201 (2025)]](https://doi.org/10.1103/PhysRevB.111.184201)[[arXiv:2404.07975]](https://arxiv.org/abs/2404.07975)  
+
+- Projected ensemble in a system with locally supported conserved charges  
+  Sandipan Manna, **Sthitadhi Roy**, and G. J. Sreejith  
+  [[Phys. Rev. B 111, 144302 (2025)]](https://doi.org/10.1103/PhysRevB.111.144302)[[arXiv:2501.01823]](https://arxiv.org/abs/2501.01823)  
+
+- Entanglement dynamics and eigenstate correlations in strongly disordered quantum many-body systems  
+  Bikram Pain and **Sthitadhi Roy**  
+  [[Phys. Rev. B 110, 224201 (2024)]](https://doi.org/10.1103/PhysRevB.110.224201)[[arXiv:2406.09392]](https://arxiv.org/abs/2406.09392)  
+
+- The Fock-space landscape of many-body localisation (*invited Topical Review article*)  
+  **Sthitadhi Roy** and D. E. Logan  
+  [[J. Phys.:Condens. Matter 37, 073003 (2025)]](https://doi.org/10.1088/1361-648X/ad94c3)[[arXiv:2408.12685]](https://arxiv.org/abs/2408.12685)  
+
+- The connection between Hilbert-space return probability and real-space autocorrelations in quantum spin chains  
+  Bikram Pain, Kritika Khanwal, and **Sthitadhi Roy**  
+  [[Phys. Rev. B 108, L140201 (2023) (Letter)]](https://doi.org/10.1103/PhysRevB.108.L140201) [[arXiv:2305.06374]](https://arxiv.org/abs/2305.06374)  
+
+- Eigenvector Correlations Across the Localisation Transition in non-Hermitian Power-Law Banded Random Matrices  
+  Soumi Ghosh, Manas Kulkarni, and **Sthitadhi Roy**  
+  [[Phys. Rev. B 108, L060201 (2023) (Letter)]](https://doi.org/10.1103/PhysRevB.108.L060201) [[arXiv:2304.09892]](https://arxiv.org/abs/2304.09892)  
+
+- Anatomy of localisation protected quantum order on Hilbert space (*Invited article for J. Phys.:Condens. Matter special issue -- Emerging Leaders 2023*)  
+  **Sthitadhi Roy**  
+  [[J. Phys.:Condens. Matter 35, 415601 (2023)]][[arXiv:2307.06702]](https://arxiv.org/abs/2307.06702)  
+
+- Probability transport on the Fock space of a disordered quantum spin chain  
+  Isabel Creed, David E. Logan, and **Sthitadhi Roy**  
+  [[Phys.Rev. B 107, 094206 (2023)]](https://doi.org/10.1103/PhysRevB.107.094206)[[arXiv:2212.14333]](https://arxiv.org/abs/2212.14333)  
+
+- Real-time correlators in chaotic quantum many-body systems
+  Adam Nahum, **Sthitadhi Roy**, Sagar Vijay, and Tianci Zhou  
+  [[Phys. Rev. B 106, 224310 (2022)]](https://doi.org/10.1103/PhysRevB.106.224310)[[arXiv:2205.11544]](https://arxiv.org/abs/2205.11544)  
+
+- Hilbert-space correlations beyond multifractality and bipartite entanglement in many-body localised systems  
+  **Sthitadhi Roy**  
+  [[Phys. Rev. B 106, L140204 (2022) (Letter)]](https://doi.org/10.1103/PhysRevB.106.L140204)[[arXiv:2208.08468]](https://arxiv.org/abs/2208.08468)  
+
 - Aydin Deger, Achilleas Lazarides, and **Sthitadhi Roy**, "Constrained Dynamics and Directed Percolation", [Phys. Rev. Lett. 129, 190601 (2022) (Editors' Suggestion)] [arXiv:2206.07724](https://arxiv.org/abs/2206.07724)
 - Aydin Deger, **Sthitadhi Roy**, Achilleas Lazarides, "Arresting classical many-body chaos by kinetic constraints", [Phys. Rev. Lett. 129, 160601 (2022)][arXiv:2202.11726](https://arxiv.org/abs/2202.11726)
 - Max McGinley, **Sthitadhi Roy**, and S. A. Parameswaran, "Absolutely Stable Spatiotemporal Order in Noisy Quantum Systems", [Phys. Rev. Lett. 129, 090404 (2022) (Editors' Suggestion)] [arXiv:2111.02499](https://arxiv.org/abs/2111.02499)
