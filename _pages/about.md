@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello !
+Hello !  
 I am a member of the faculty at the [International Centre for Theoretical Sciences, Tata Institue of Fundamental Research, Bengaluru](https://icts.res.in). My current research interests broadly revolve around the out-of-equilibrium dynamics of strongly correlated quantum many body systems in the presence and absence of disorder. Please click here for a more detailed summary of my research.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
@@ -18,7 +18,7 @@ I am a member of the faculty at the [International Centre for Theoretical Scienc
   Bangalore, India
 
 - **Postdoctoral Research Associate** (November 2017 - January 2022)  
-  Condensed Matter Theory group  
+  [Condensed Matter Theory group  ](https://www.physics.ox.ac.uk/research/group/condensed-matter-theory)
   University of Oxford, UK  
 
 - **Ph.D. in Theoretical Physics** (July 2013 - November 2017)  
@@ -38,11 +38,11 @@ I am a member of the faculty at the [International Centre for Theoretical Scienc
 ### Contact
 
 ##### Email:
-- sthitadhi.roy@icts.res.in
-- sthitadhi91@gmail.com
+- [sthitadhi.roy@icts.res.in](mailto:sthitadhi.roy@icts.res.in)
+- [sthitadhi91@gmail.com](mailto:sthitadhi91@gmail.com)
 
 ##### Address:
-H-202  
+Office: H-202  
 International Centre for Theoretical Sciences, TIFR  
 Survey No. 151, Shivakote,  
 Bengaluru 560089, India  
