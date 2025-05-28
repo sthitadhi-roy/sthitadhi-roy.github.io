@@ -22,26 +22,28 @@ author_profile: true
 
 
 ### Journal Articles
-
+- Measurement-invisible quantum correlations in scrambling dynamics  
+  Alan Sherry and **Sthitadhi Roy**  
+  [[Phys. Rev. B 111, L180301 (2025)]](https://doi.org/10.1103/PhysRevB.111.L180301) [[arXiv:2410.24212]](https://arxiv.org/abs/2410.24212)  
 - Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase  
   Ratul Thakur, Bikram Pain, and **Sthitadhi Roy**  
-  [[Phys. Rev. B 111, 174206 (2025)]](https://link.aps.org/doi/10.1103/PhysRevB.111.174206)[[arXiv:2504.02815]](https://arxiv.org/abs/2504.02815)  
+  [[Phys. Rev. B 111, 174206 (2025)]](https://link.aps.org/doi/10.1103/PhysRevB.111.174206) [[arXiv:2504.02815]](https://arxiv.org/abs/2504.02815)  
 
 - Spectral Multifractality and Emergent Energyscales Across the Many-Body Localisation Transition  
   **Sthitadhi Roy**  
-  [[Phys. Rev. B 111, 184201 (2025)]](https://doi.org/10.1103/PhysRevB.111.184201)[[arXiv:2404.07975]](https://arxiv.org/abs/2404.07975)  
+  [[Phys. Rev. B 111, 184201 (2025)]](https://doi.org/10.1103/PhysRevB.111.184201) [[arXiv:2404.07975]](https://arxiv.org/abs/2404.07975)  
 
 - Projected ensemble in a system with locally supported conserved charges  
   Sandipan Manna, **Sthitadhi Roy**, and G. J. Sreejith  
-  [[Phys. Rev. B 111, 144302 (2025)]](https://doi.org/10.1103/PhysRevB.111.144302)[[arXiv:2501.01823]](https://arxiv.org/abs/2501.01823)  
+  [[Phys. Rev. B 111, 144302 (2025)]](https://doi.org/10.1103/PhysRevB.111.144302) [[arXiv:2501.01823]](https://arxiv.org/abs/2501.01823)  
 
 - Entanglement dynamics and eigenstate correlations in strongly disordered quantum many-body systems  
   Bikram Pain and **Sthitadhi Roy**  
-  [[Phys. Rev. B 110, 224201 (2024)]](https://doi.org/10.1103/PhysRevB.110.224201)[[arXiv:2406.09392]](https://arxiv.org/abs/2406.09392)  
+  [[Phys. Rev. B 110, 224201 (2024)]](https://doi.org/10.1103/PhysRevB.110.224201) [[arXiv:2406.09392]](https://arxiv.org/abs/2406.09392)  
 
 - The Fock-space landscape of many-body localisation (*invited Topical Review article*)  
   **Sthitadhi Roy** and D. E. Logan  
-  [[J. Phys.:Condens. Matter 37, 073003 (2025)]](https://doi.org/10.1088/1361-648X/ad94c3)[[arXiv:2408.12685]](https://arxiv.org/abs/2408.12685)  
+  [[J. Phys.:Condens. Matter 37, 073003 (2025)]](https://doi.org/10.1088/1361-648X/ad94c3) [[arXiv:2408.12685]](https://arxiv.org/abs/2408.12685)  
 
 - The connection between Hilbert-space return probability and real-space autocorrelations in quantum spin chains  
   Bikram Pain, Kritika Khanwal, and **Sthitadhi Roy**  
@@ -53,19 +55,19 @@ author_profile: true
 
 - Anatomy of localisation protected quantum order on Hilbert space (*Invited article for J. Phys.:Condens. Matter special issue -- Emerging Leaders 2023*)  
   **Sthitadhi Roy**  
-  [[J. Phys.:Condens. Matter 35, 415601 (2023)]](https://doi.org/10.1088/1361-648X/ace413)[[arXiv:2307.06702]](https://arxiv.org/abs/2307.06702)  
+  [[J. Phys.:Condens. Matter 35, 415601 (2023)]](https://doi.org/10.1088/1361-648X/ace413) [[arXiv:2307.06702]](https://arxiv.org/abs/2307.06702)  
 
 - Probability transport on the Fock space of a disordered quantum spin chain  
   Isabel Creed, David E. Logan, and **Sthitadhi Roy**  
-  [[Phys.Rev. B 107, 094206 (2023)]](https://doi.org/10.1103/PhysRevB.107.094206)[[arXiv:2212.14333]](https://arxiv.org/abs/2212.14333)  
+  [[Phys.Rev. B 107, 094206 (2023)]](https://doi.org/10.1103/PhysRevB.107.094206) [[arXiv:2212.14333]](https://arxiv.org/abs/2212.14333)  
 
 - Real-time correlators in chaotic quantum many-body systems  
   Adam Nahum, **Sthitadhi Roy**, Sagar Vijay, and Tianci Zhou  
-  [[Phys. Rev. B 106, 224310 (2022)]](https://doi.org/10.1103/PhysRevB.106.224310)[[arXiv:2205.11544]](https://arxiv.org/abs/2205.11544)  
+  [[Phys. Rev. B 106, 224310 (2022)]](https://doi.org/10.1103/PhysRevB.106.224310) [[arXiv:2205.11544]](https://arxiv.org/abs/2205.11544)  
 
 - Hilbert-space correlations beyond multifractality and bipartite entanglement in many-body localised systems  
   **Sthitadhi Roy**  
-  [[Phys. Rev. B 106, L140204 (2022) (Letter)]](https://doi.org/10.1103/PhysRevB.106.L140204)[[arXiv:2208.08468]](https://arxiv.org/abs/2208.08468)  
+  [[Phys. Rev. B 106, L140204 (2022) (Letter)]](https://doi.org/10.1103/PhysRevB.106.L140204) [[arXiv:2208.08468]](https://arxiv.org/abs/2208.08468)  
 
 - Constrained Dynamics and Directed Percolation  
   Aydin Deger, Achilleas Lazarides and **Sthitadhi Roy**  
