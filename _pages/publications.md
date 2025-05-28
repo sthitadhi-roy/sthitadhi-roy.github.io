@@ -24,7 +24,7 @@ author_profile: true
 ### Journal Articles
 - Measurement-invisible quantum correlations in scrambling dynamics  
   Alan Sherry and **Sthitadhi Roy**  
-  [[Phys. Rev. B 111, L180301 (2025)]](https://doi.org/10.1103/PhysRevB.111.L180301) [[arXiv:2410.24212]](https://arxiv.org/abs/2410.24212)  
+  [[Phys. Rev. B 111, L180301 (2025) (Letter)]](https://doi.org/10.1103/PhysRevB.111.L180301) [[arXiv:2410.24212]](https://arxiv.org/abs/2410.24212)  
 - Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase  
   Ratul Thakur, Bikram Pain, and **Sthitadhi Roy**  
   [[Phys. Rev. B 111, 174206 (2025)]](https://link.aps.org/doi/10.1103/PhysRevB.111.174206) [[arXiv:2504.02815]](https://arxiv.org/abs/2504.02815)  
@@ -75,10 +75,13 @@ author_profile: true
 
 - Arresting classical many-body chaos by kinetic constraints  
   Aydin Deger, **Sthitadhi Roy**, and Achilleas Lazarides  
-  [[Phys. Rev. Lett. 129, 160601 (2022)]](https://doi.org/10.1103/PhysRevLett.129.160601)[arXiv:2202.11726](https://arxiv.org/abs/2202.11726)
+  [[Phys. Rev. Lett. 129, 160601 (2022)]](https://doi.org/10.1103/PhysRevLett.129.160601) [[arXiv:2202.11726]](https://arxiv.org/abs/2202.11726)
 
-- , "Absolutely Stable Spatiotemporal Order in Noisy Quantum Systems", [Phys. Rev. Lett. 129, 090404 (2022) (Editors' Suggestion)] [arXiv:2111.
-  02499](https://arxiv.org/abs/2111.02499)Max McGinley, **Sthitadhi Roy**, and S. A. Parameswaran
+- Absolutely Stable Spatiotemporal Order in Noisy Quantum Systems  
+  Max McGinley, **Sthitadhi Roy**, and S. A. Parameswaran
+  [[Phys. Rev. Lett. 129, 090404 (2022) (Editors' Suggestion)]](https://doi.org/10.1103/PhysRevLett.129.090404) [[arXiv:2111.02499]](https://arxiv.org/abs/2111.02499)
+
+
 - , "Resonant energy scales and local observables in the many-body localised phase", [Phys. Rev. B 106, 054309 (2022)][arXiv:2202.10482]
   (https://arxiv.org/abs/2202.10482)Samuel J. Garratt and  **Sthitadhi Roy**
 - , "Scaling of Fock-space propagator and multifractality across the many-body localization transition", [Phys. Rev. B 106, 054203 (2022)]
