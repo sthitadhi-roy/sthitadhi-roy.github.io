@@ -7,7 +7,7 @@ author_profile: true
 
 ### List of talks
 
-- Imprints of quantum information scrambling on eigenstate correlations, Conference on Physics of Non-equilibrium systems(https://newweb.bose.res.in/Conferences/CQNS-2025/), SNBNCBS Kolkata, 22-23 May 2025
+- *Imprints of quantum information scrambling on eigenstate correlations*, [Conference on Physics of Non-equilibrium systems](https://newweb.bose.res.in/Conferences/CQNS-2025/), SNBNCBS Kolkata, 22-23 May 2025
 
 - *Quantum information scrambling and eigenstate correlations*, Theoretical Physics Seminar, RRI Bangalore, 7th April 2025
 
@@ -15,7 +15,7 @@ author_profile: true
 
 - *Measurement-invisible quantum correlations in scrambling dynamics*, Pan-TIFR Condensed Matter Conference, TIFR Mumbai, 17 Februrary 2025
 
-- *Measurement-invisible quantum correlations in scrambling dynamics*, Quantum Trajectories(https://www.icts.res.in/program/qt), ICTS-TIFR, Bengaluru, 20 January 2025 to 07 February 2025
+- *Measurement-invisible quantum correlations in scrambling dynamics*, [Quantum Trajectories](https://www.icts.res.in/program/qt), ICTS-TIFR, Bengaluru, 20 January 2025 to 07 February 2025
 
 - *Entanglement dynamics and eigenstate correlations in disordered quantum systems*, SINP Theory Seminar, SINP, Kolkata, 28 October 2024
 
@@ -23,17 +23,17 @@ author_profile: true
 
 - *Entanglement dynamics and eigenstate correlations in disordered quantum systems*, CEFIPRA French-Indian workshop on Topology and Entanglement in Quantum Matter, Université Toulouse III - Paul Sabatier, Toulouse, France, June 2024
 
-- *Spectral multifractality and emergent energyscales at the many-body localisation transition*, Indian Statistical Physics Community Meeting(https://www.icts.res.in/discussion-meeting/ispcm2024), ICTS-TIFR Bangalore, April 2024 
+- *Spectral multifractality and emergent energyscales at the many-body localisation transition*, [Indian Statistical Physics Community Meeting](https://www.icts.res.in/discussion-meeting/ispcm2024), ICTS-TIFR Bangalore, April 2024 
 
-- *Entanglement dynamics and eigenstate correlations in disordered quantum systems*, Quantum Dynamics and Chaos: Modern perspectives(https://www.ashoka.edu.in/wp-content/uploads/2024/03/Workshop_Schedule_9.pdf), Ashoka University, March 2024 
+- *Entanglement dynamics and eigenstate correlations in disordered quantum systems*, [Quantum Dynamics and Chaos: Modern perspectives](https://www.ashoka.edu.in/wp-content/uploads/2024/03/Workshop_Schedule_9.pdf), Ashoka University, March 2024 
 
-- *On the connection between dynamics of local observables and Hilbert-space propagators*, Stability of quantum matter in and out of equilibrium at various scales(https://www.icts.res.in/program/SQMVS2024), ICTS-TIFR Bangalore, January 2024 
+- *On the connection between dynamics of local observables and Hilbert-space propagators*, [Stability of quantum matter in and out of equilibrium at various scales](https://www.icts.res.in/program/SQMVS2024), ICTS-TIFR Bangalore, January 2024 
 
-- Anderson Centenary Symposium, Spectral multifractality and emergent energyscales at the many-body localisation transition, IISc Bangalore, January 2024 
+- *Spectral multifractality and emergent energyscales at the many-body localisation transition*, Anderson Centenary Symposium, IISc Bangalore, January 2024 
 
-- Pan-TIFR CMP Conference, Spectral multifractality and emergent energyscales at the many-body localisation transition, TIFR Hyderabad, December 2023 
+- *Spectral multifractality and emergent energyscales at the many-body localisation transition*, [Pan-TIFR CMP Conference](https://sites.google.com/tifrh.res.in/cmp2023/home), TIFR Hyderabad, December 2023 
 
-- QMAT 2023, On the connection between dynamics in Hilbert space and real space in spin chains, NISER Bhubaneswar, November 2023 
+- *On the connection between dynamics in Hilbert space and real space in spin chains*, [QMAT 2023](https://sites.google.com/niser.ac.in/qmat2023/), NISER Bhubaneswar, November 2023 
 
 - Recent Advances in Quantum Many-Body Dynamics, Loughborough University, UK, From Fock/Hilbert-space return probability to real-space spin autocorrelations, August 2023 
 
@@ -41,12 +41,14 @@ author_profile: true
 
 - Periodically and quasi-periodically driven complex systems, ICTS-TIFR Bengaluru, "From Fock/Hilbert-space return probability to real-space spin autocorrelations", June 2023 [[video]](https://www.youtube.com/live/d8w2Qbj8LNA)
 
-Joint Condensed Matter Seminar (JCMS) KTH Royal Insitute of Technology, Nordita, and Stockholm University, "Eigenvector Correlations Across the Localisation Transition in non-Hermitian Power-Law Banded Random Matrices", May 2023 
+- Joint Condensed Matter Seminar (JCMS) KTH Royal Insitute of Technology, Nordita, and Stockholm University, "Eigenvector Correlations Across the Localisation Transition in non-Hermitian Power-Law Banded Random Matrices", May 2023 
 
 - DPS Day Seminar, IISER Kolkata, India, "Dynamical phases of quantum matter in measurement-unitary hybrid dynamics", March 2023 
 
 - IMSc Colloquium, Institute of Mathematical Sciences, Chennai, India, "Dynamical phases of quantum matter in measurement-unitary hybrid dynamics", January 2023  [[video]](https://www.youtube.com/watch?v=8nrxKpIuNks)
-Conference on correlated and/or driven quantum matter, IACS Kolkata, "Hilbert-space correlations and entanglement structure of quantum states", January 2023  
+
+- Conference on correlated and/or driven quantum matter, IACS Kolkata, "Hilbert-space correlations and entanglement structure of quantum states", January 2023  
+
 - Ergodicity Breaking and Integrability in Long-Range Systems and on Random Graphs, Nordita, Stockholm, "Hilbert-space correlations and bipartite entanglement", November 2022 [[video]](https://enabla.com/en/pub/965/video)
 
 - ICTS Condensed Matter Seminar, ICTS-TIFR Bengaluru, "Constraint-induced arrested classical many-body chaos and directed percolation", October 2022
