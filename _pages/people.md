@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-#### Current Members
+## Current Members
 
 ### PhD Students
 
@@ -29,7 +29,9 @@ author_profile: true
 - Shraddhanjali Choudhury (*LTVSP student, 2025*)
 
 
-#### Former Members
+## Former Members
+
+- Soumi Ghosh (*Postdoctoral Fellow, 2022-24 --> Postdoc at KTH, Stockholm, Sweden*)
 
 - Subhadip Chakraborty (*LTVSP student, 2023-24 --> PhD student at University of Regensburg with Prof. F. Evers*)
 
