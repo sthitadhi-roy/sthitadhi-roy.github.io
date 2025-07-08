@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% if site.author.arxiv %}
@@ -18,7 +18,9 @@ author_profile: true
 {% include base_path %}
 
 <h3> Preprints </h3>
-
+- Imprints of information scrambling on eigenstates of a quantum chaotic system 
+  Bikram Pain, Ratul Thakur, and **Sthitadhi Roy** 
+  [[arXiv:2507.02853]](https://arxiv.org/abs/2507.02853)
 
 
 ### Journal Articles
