@@ -17,16 +17,22 @@ author_profile: true
 
 {% include base_path %}
 
-<h3> Preprints </h3>
-- Imprints of information scrambling on eigenstates of a quantum chaotic system 
-  Bikram Pain, Ratul Thakur, and **Sthitadhi Roy** 
-  [[arXiv:2507.02853]](https://arxiv.org/abs/2507.02853)
+### Preprints
+
+- Do mixed states exhibit deep thermalisation?  
+  Alan Sherry and **Sthitadhi Roy**  
+  [[arXiv:2507.14135]](https://arxiv.org/abs/2507.14135)  
+
+- Imprints of information scrambling on eigenstates of a quantum chaotic system  
+  Bikram Pain, Ratul Thakur, and **Sthitadhi Roy**  
+  [[arXiv:2507.02853]](https://arxiv.org/abs/2507.02853)  
 
 
 ### Journal Articles
 - Measurement-invisible quantum correlations in scrambling dynamics  
   Alan Sherry and **Sthitadhi Roy**  
   [[Phys. Rev. B 111, L180301 (2025) (Letter)]](https://doi.org/10.1103/PhysRevB.111.L180301) [[arXiv:2410.24212]](https://arxiv.org/abs/2410.24212)  
+
 - Logarithmic entanglement lightcone from eigenstate correlations in the many-body localised phase  
   Ratul Thakur, Bikram Pain, and **Sthitadhi Roy**  
   [[Phys. Rev. B 111, 174206 (2025)]](https://link.aps.org/doi/10.1103/PhysRevB.111.174206) [[arXiv:2504.02815]](https://arxiv.org/abs/2504.02815)  
