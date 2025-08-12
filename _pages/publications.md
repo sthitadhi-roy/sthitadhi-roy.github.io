@@ -19,6 +19,11 @@ author_profile: true
 
 ### Preprints
 
+- Partial projected ensembles and spatiotemporal structure of information scrambling  
+  Saptarshi Mandal, Pieter W. Claeys and **Sthitadhi Roy**  
+  [[arXiv:2508.05632]](https://arxiv.org/abs/2508.05632)  
+
+
 - Do mixed states exhibit deep thermalisation?  
   Alan Sherry and **Sthitadhi Roy**  
   [[arXiv:2507.14135]](https://arxiv.org/abs/2507.14135)  
