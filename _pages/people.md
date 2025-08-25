@@ -26,7 +26,7 @@ author_profile: true
 
 ### Project students
 
-- Shraddhanjali Choudhury (*LTVSP student, 2025*)
+- Anwesha Malla (*LTVSP student, 2025-26*)
 
 
 ## Former Members
