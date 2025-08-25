@@ -33,7 +33,9 @@ author_profile: true
 
 - Soumi Ghosh (*Postdoctoral Fellow, 2022-24 --> Postdoc at KTH, Stockholm, Sweden*)
 
-- Subhadip Chakraborty (*LTVSP student, 2023-24 --> PhD student at University of Regensburg with Prof. F. Evers*)
+- Shraddhanjali Choudhury (*LTVSP student, 2025 --> PhD student at Virginia Tech, USA*)
+
+- Subhadip Chakraborty (*LTVSP student, 2023-24 --> PhD student at University of Regensburg, Germany with Prof. F. Evers*)
 
 - Kritika Khanwal (*LTVSP student, 2022-23*)
 

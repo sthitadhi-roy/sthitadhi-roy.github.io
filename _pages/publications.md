@@ -19,6 +19,10 @@ author_profile: true
 
 ### Preprints
 
+- Multifractality in high-dimensional graphs induced by correlated radial disorder  
+  David E. Logan and **Sthitadhi Roy**  
+  [[arXiv:2508.15551]](https://arxiv.org/abs/2508.15551)  
+
 - Partial projected ensembles and spatiotemporal structure of information scrambling  
   Saptarshi Mandal, Pieter W. Claeys and **Sthitadhi Roy**  
   [[arXiv:2508.05632]](https://arxiv.org/abs/2508.05632)  
