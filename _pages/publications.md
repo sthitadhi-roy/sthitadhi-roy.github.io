@@ -19,14 +19,17 @@ author_profile: true
 
 ### Preprints
 
-- Multifractality in high-dimensional graphs induced by correlated radial disorder  
-  David E. Logan and **Sthitadhi Roy**  
-  [[arXiv:2508.15551]](https://arxiv.org/abs/2508.15551)  
+- How many-body chaos emerges in the presence of quasiparticles  
+  Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
+  [[arXiv:2601.05238]](https://arxiv.org/abs/2601.05238)
 
-- Partial projected ensembles and spatiotemporal structure of information scrambling  
-  Saptarshi Mandal, Pieter W. Claeys and **Sthitadhi Roy**  
-  [[arXiv:2508.05632]](https://arxiv.org/abs/2508.05632)  
-
+- Anderson localisation in spatially structured random graphs  
+  Bibek Saha and **Sthitadhi Roy**  
+  [[arXiv:2601.00220]](https://arxiv.org/abs/2601.0020)
+ 
+- Information phases of partial projected ensembles generated from random quantum states and scrambling dynamics  
+  Alan Sherry, Saptarshi Mandal, and **Sthitadhi Roy**  
+  [[arXiv:2511.10595]](https://arxiv.org/abs/2511.10595)
 
 - Do mixed states exhibit deep thermalisation?  
   Alan Sherry and **Sthitadhi Roy**  
@@ -38,6 +41,15 @@ author_profile: true
 
 
 ### Journal Articles
+
+- Partial projected ensembles and spatiotemporal structure of information scrambling  
+  Saptarshi Mandal, Pieter W. Claeys and **Sthitadhi Roy**  
+  [[Phys. Rev. B 113, 024303 (2026)]](https://doi.org/10.1103/h2q2-yfqs) [[arXiv:2508.05632]](https://arxiv.org/abs/2508.05632)  
+
+- Multifractality in high-dimensional graphs induced by correlated radial disorder  
+  David E. Logan and **Sthitadhi Roy**  
+  [[Phys. Rev. B 112, 184202 (2025)]](https://doi.org/10.1103/5vqd-v4b8) [[arXiv:2508.15551]](https://arxiv.org/abs/2508.15551)  
+
 - Measurement-invisible quantum correlations in scrambling dynamics  
   Alan Sherry and **Sthitadhi Roy**  
   [[Phys. Rev. B 111, L180301 (2025) (Letter)]](https://doi.org/10.1103/PhysRevB.111.L180301) [[arXiv:2410.24212]](https://arxiv.org/abs/2410.24212)  
