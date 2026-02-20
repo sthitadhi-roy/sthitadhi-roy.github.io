@@ -25,7 +25,7 @@ author_profile: true
 
 - Anderson localisation in spatially structured random graphs  
   Bibek Saha and **Sthitadhi Roy**  
-  [[arXiv:2601.00220]](https://arxiv.org/abs/2601.0020)
+  [[arXiv:2601.00220]](https://arxiv.org/abs/2601.00220)
  
 - Information phases of partial projected ensembles generated from random quantum states and scrambling dynamics  
   Alan Sherry, Saptarshi Mandal, and **Sthitadhi Roy**  
