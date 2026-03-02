@@ -19,17 +19,17 @@ author_profile: true
 
 ### Preprints
 
+- Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid  
+  Souvik Kundu, Arnab Seth, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
+  [[arXiv:2602.23362]](https://arxiv.org/abs/2602.23362)  
+
 - How many-body chaos emerges in the presence of quasiparticles  
   Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
-  [[arXiv:2601.05238]](https://arxiv.org/abs/2601.05238)
+  [[arXiv:2601.05238]](https://arxiv.org/abs/2601.05238)  
 
 - Anderson localisation in spatially structured random graphs  
   Bibek Saha and **Sthitadhi Roy**  
-  [[arXiv:2601.00220]](https://arxiv.org/abs/2601.00220)
- 
-- Information phases of partial projected ensembles generated from random quantum states and scrambling dynamics  
-  Alan Sherry, Saptarshi Mandal, and **Sthitadhi Roy**  
-  [[arXiv:2511.10595]](https://arxiv.org/abs/2511.10595)
+  [[arXiv:2601.00220]](https://arxiv.org/abs/2601.00220)  
 
 - Do mixed states exhibit deep thermalisation?  
   Alan Sherry and **Sthitadhi Roy**  
@@ -41,6 +41,10 @@ author_profile: true
 
 
 ### Journal Articles
+
+- Information phases of partial projected ensembles generated from random quantum states and scrambling dynamics  
+  Alan Sherry, Saptarshi Mandal, and **Sthitadhi Roy**  
+  [[Phys. Rev. B 113, 104301 (2026) (Editors' Suggestion)]](https://doi.org/10.1103/dcdc-pxn3) [[arXiv:2511.10595]](https://arxiv.org/abs/2511.10595)
 
 - Partial projected ensembles and spatiotemporal structure of information scrambling  
   Saptarshi Mandal, Pieter W. Claeys and **Sthitadhi Roy**  
