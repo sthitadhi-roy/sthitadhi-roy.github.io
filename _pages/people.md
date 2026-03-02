@@ -15,13 +15,15 @@ author_profile: true
 - Bikram Pain
 - Alan Sherry (*co-advisor, Advisor: Prof. Abhishek Dhar*)
 - Saptarshi Mandal
-- Bibek Saha (*co-advisor: Prof. Abhishek Dhar*)
+- Bibek Saha (*co-advisor: Prof. Abhishek Dhar*) 
+- Ratul Thakur
 
 ### Postdocs
 
-- Souvik Kundu
-- Indrajit Sau
-- Sibaram Ruidas
+- Souvik Kundu 
+- Indrajit Sau 
+- Tista Banerjee  
+- Mainak Pal 
 
 
 ### Project students
@@ -30,6 +32,8 @@ author_profile: true
 
 
 ## Former Members
+
+- Sibaram Ruidas (*Postdoctoral Fellow, 2023-25 --> National Postdoctoral Fellow at IACS, Kolkata*)
 
 - Soumi Ghosh (*Postdoctoral Fellow, 2022-24 --> Postdoc at KTH, Stockholm, Sweden*)
 
