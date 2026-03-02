@@ -7,9 +7,21 @@ author_profile: true
 
 ### List of talks
 
+- *Information Phases in Scrambling Quantum Dynamics*, [Susegad Symposium on Quantum Dynamics and Thermalisation](https://sites.google.com/goa.bits-pilani.ac.in/ssqdt/home) BITS Pilani, KK Birla Goa Campus, 23-25 Fenruary 2026  
+
+- *Statistical Mechanics of (Projected) Ensembles of Mixed States*, Young Investigators' Meet on Quantum Condensed Matter Theory 2025, IISER Tirupati, 21-23 December 2025 
+
+- *Eigenstate correlations and information scrambling: An application to logarithmic lightcones in many-body localised system*, [Frontiers in Quantum Condensed Matter Physics](https://www.icts.res.in/discussion-meeting/FQCMP), ICTS-TIFR, Bengaluru, 15-19 December 2025 
+
+- *Statistical Mechanics of (Projected) Ensembles of Mixed States*, [Pan-TIFR StatPhys meeting](https://scitalks.tifr.res.in/event/9209/overview), TIFR Mumbai, 15-19 December 2025 
+
+- *The fate of deep thermalisation for mixed states*, CMD Seminar, MPIPKS, Dresden, Germany, October 16, 2025 
+
+- *Information strcuture in quantum many-body systems*, [AI and Fundamental Sciences Workshop](https://www.icts.res.in/discussion-meeting/AIFSW2025), ICTS-TIFR Bengaluru, October 7, 2025 
+
 - *Imprints of quantum information scrambling on eigenstate correlations*, [Conference on Physics of Non-equilibrium systems](https://newweb.bose.res.in/Conferences/CQNS-2025/), SNBNCBS Kolkata, 22-23 May 2025
 
-- *Quantum information scrambling and eigenstate correlations*, Theoretical Physics Seminar, RRI Bangalore, 7th April 2025
+- *Quantum information scrambling and eigenstate correlations*, Theoretical Physics Seminar, RRI Bangalore, April 7, 2025
 
 - *Eigenstate correlations and information scrambling in quantum many-body systems*, King’s College, London, UK, March 17, 2025
 
