@@ -7,6 +7,8 @@ author_profile: true
 
 ### List of talks
 
+- *Information Phases in Scrambling Quantum Dynamics*, Quantum Dynamics and Chaos-II workshop, Ashoka University, 27-29 March 2026  
+
 - *Information Phases in Scrambling Quantum Dynamics*, [Susegad Symposium on Quantum Dynamics and Thermalisation](https://sites.google.com/goa.bits-pilani.ac.in/ssqdt/home) BITS Pilani, KK Birla Goa Campus, 23-25 Fenruary 2026  
 
 - *Statistical Mechanics of (Projected) Ensembles of Mixed States*, Young Investigators' Meet on Quantum Condensed Matter Theory 2025, IISER Tirupati, 21-23 December 2025 
