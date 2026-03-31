@@ -19,6 +19,14 @@ author_profile: true
 
 ### Preprints
 
+- Krylov-space anatomy and spread complexity of a disordered quantum spin chain  
+  Bikram Pain, David E. Logan, **Sthitadhi Roy**  
+  [[arXiv:2603.25724]](https://arxiv.org/abs/2603.25724)  
+
+- The damage spreading transition: a hierarchy of renormalization group fixed points  
+  Adam Nahum and **Sthitadhi Roy**  
+  [[arXiv:2603.22439]](https://arxiv.org/abs/2603.22439)  
+
 - Arrested Relaxation in a Disorder-Free Coulomb Spin Liquid  
   Souvik Kundu, Arnab Seth, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
   [[arXiv:2602.23362]](https://arxiv.org/abs/2602.23362)  
