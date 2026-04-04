@@ -18,6 +18,9 @@ author_profile: true
 {% include base_path %}
 
 ### Preprints
+- Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking  
+  Bikram Pain, **Sthitadhi Roy**, Jens H. Bardarson, Ivan M. Khaymovich  
+  [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321)  
 
 - Krylov-space anatomy and spread complexity of a disordered quantum spin chain  
   Bikram Pain, David E. Logan, **Sthitadhi Roy**  
