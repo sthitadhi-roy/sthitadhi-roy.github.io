@@ -37,12 +37,7 @@ author_profile: true
 - How many-body chaos emerges in the presence of quasiparticles  
   Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
   [[arXiv:2601.05238]](https://arxiv.org/abs/2601.05238)  
- 
-
-- Do mixed states exhibit deep thermalisation?  
-  Alan Sherry and **Sthitadhi Roy**  
-  [[arXiv:2507.14135]](https://arxiv.org/abs/2507.14135)  
-
+   
 - Imprints of information scrambling on eigenstates of a quantum chaotic system  
   Bikram Pain, Ratul Thakur, and **Sthitadhi Roy**  
   [[arXiv:2507.02853]](https://arxiv.org/abs/2507.02853)  
@@ -50,7 +45,11 @@ author_profile: true
 
 ### Journal Articles
 
-- Anderson localisation in spatially structured random graphs  
+- Deep thermalization for mixed states  
+  Alan Sherry and **Sthitadhi Roy**  
+  [[Phys. Rev. B 113, 174309 (2026)]](https://doi.org/10.1103/x397-3nk5) [[arXiv:2507.14135]](https://arxiv.org/abs/2507.14135)
+
+- Anderson localization in spatially structured random graphs  
   Bibek Saha and **Sthitadhi Roy**  
   [[Phys. Rev. B 113, 144204 (2026)]](https://doi.org/10.1103/g6rc-mxq2) [[arXiv:2601.00220]](https://arxiv.org/abs/2601.00220) 
 
