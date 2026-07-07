@@ -18,13 +18,13 @@ author_profile: true
 {% include base_path %}
 
 ### Preprints
+- On the emergence of quantum many-body chaos for tunably-broken integrability  
+  Sounak Biswas, **Sthitadhi Roy**, Roderich Moessner
+  [[arXiv:2607.02506]](https://arxiv.org/abs/2607.02506)
+
 - Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking  
   Bikram Pain, **Sthitadhi Roy**, Jens H. Bardarson, Ivan M. Khaymovich  
   [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321)  
-
-- Krylov-space anatomy and spread complexity of a disordered quantum spin chain  
-  Bikram Pain, David E. Logan, **Sthitadhi Roy**  
-  [[arXiv:2603.25724]](https://arxiv.org/abs/2603.25724)  
 
 - The damage spreading transition: a hierarchy of renormalization group fixed points  
   Adam Nahum and **Sthitadhi Roy**  
@@ -44,6 +44,10 @@ author_profile: true
 
 
 ### Journal Articles
+
+- Krylov-space anatomy and spread complexity of a disordered quantum spin chain  
+  Bikram Pain, David E. Logan, **Sthitadhi Roy**  
+  [[Phys. Rev. B 113, 214205 (2026)]](https://doi.org/10.1103/3xnt-2n8v)  [[arXiv:2603.25724]](https://arxiv.org/abs/2603.25724)  
 
 - Deep thermalization for mixed states  
   Alan Sherry and **Sthitadhi Roy**  
