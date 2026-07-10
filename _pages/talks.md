@@ -7,6 +7,10 @@ author_profile: true
 
 ### List of talks
 
+- *Information Phases in Scrambling Quantum Dynamics*, [QMAT 2026](https://www.jnu.ac.in/QMAT2026/), JNU Delhi, 05-08 July 2026  
+
+- *Information Phases in Scrambling Quantum Dynamics*, [Recent Progress in Quantum Chaos](https://www.rri.res.in/meetings/recent-progress-quantum-chaos), RRI Bengaluru, 04-08 May 2026  
+
 - *Information Phases in Scrambling Quantum Dynamics*, Quantum Dynamics and Chaos-II workshop, Ashoka University, 27-29 March 2026  
 
 - *Information Phases in Scrambling Quantum Dynamics*, [Susegad Symposium on Quantum Dynamics and Thermalisation](https://sites.google.com/goa.bits-pilani.ac.in/ssqdt/home) BITS Pilani, KK Birla Goa Campus, 23-25 Fenruary 2026  

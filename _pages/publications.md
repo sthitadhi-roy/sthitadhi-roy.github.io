@@ -34,9 +34,6 @@ author_profile: true
   Souvik Kundu, Arnab Seth, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
   [[arXiv:2602.23362]](https://arxiv.org/abs/2602.23362)  
 
-- How many-body chaos emerges in the presence of quasiparticles  
-  Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
-  [[arXiv:2601.05238]](https://arxiv.org/abs/2601.05238)  
    
 - Imprints of information scrambling on eigenstates of a quantum chaotic system  
   Bikram Pain, Ratul Thakur, and **Sthitadhi Roy**  
@@ -44,6 +41,10 @@ author_profile: true
 
 
 ### Journal Articles
+
+- Emergence of many-body chaos in the presence of quasiparticles  
+  Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
+  [[Phys. Rev. B 114, 014306 (2026) (Editors' Suggestion)]](https://doi.org/10.1103/zkvh-dqqp)  
 
 - Krylov-space anatomy and spread complexity of a disordered quantum spin chain  
   Bikram Pain, David E. Logan, **Sthitadhi Roy**  
