@@ -12,30 +12,37 @@ author_profile: true
 
 ### PhD Students
 
-- Bikram Pain
-- Alan Sherry (*co-advisor, Advisor: Prof. Abhishek Dhar*)
-- Saptarshi Mandal
-- Bibek Saha (*co-advisor: Prof. Abhishek Dhar*) 
-- Ratul Thakur
+- [Bikram Pain](https://www.icts.res.in/people/bikram-pain)  
+- [Alan Sherry](https://www.icts.res.in/people/alan-sherry) (*co-advisor, Advisor: Prof. Abhishek Dhar*)  
+- [Saptarshi Mandal](https://www.icts.res.in/people/saptarshi-mandal)  
+- [Bibek Saha](https://www.icts.res.in/people/bibek-saha) (*co-advisor: Prof. Abhishek Dhar*)  
+- [Ratul Thakur](https://www.icts.res.in/people/ratul-thakur)  
 
 ### Postdocs
 
-- Souvik Kundu 
-- Indrajit Sau 
-- Tista Banerjee  
-- Mainak Pal 
+- [Sounak Biswas](https://sounakbiswas.gitlab.io)  
+- [Souvik Kundu](https://www.icts.res.in/people/souvik-kundu)   
+- [Indrajit Sau](https://www.icts.res.in/people/indrajit-sau)  
+- [Tista Banerjee](https://www.icts.res.in/people/tista-banerjee) 
+- [Mainak Pal](https://www.icts.res.in/people/mainak-pal)   
 
 
-### Project students
+<!-- ### Project students -->
 
-- Anwesha Malla (*LTVSP student, 2025-26*)
+
 
 
 ## Former Members
 
+### Postdocs
+
 - Sibaram Ruidas (*Postdoctoral Fellow, 2023-25 --> National Postdoctoral Fellow at IACS, Kolkata*)
 
 - Soumi Ghosh (*Postdoctoral Fellow, 2022-24 --> Postdoc at KTH, Stockholm, Sweden*)
+
+### Project students
+
+- Anwesha Malla (*LTVSP student, 2025-26 --> continuing MS at IISc Bangalore*)  
 
 - Shraddhanjali Choudhury (*LTVSP student, 2025 --> PhD student at Virginia Tech, USA*)
 

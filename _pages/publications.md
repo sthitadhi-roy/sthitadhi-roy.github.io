@@ -19,7 +19,7 @@ author_profile: true
 
 ### Preprints
 - On the emergence of quantum many-body chaos for tunably-broken integrability  
-  Sounak Biswas, **Sthitadhi Roy**, Roderich Moessner
+  Sounak Biswas, **Sthitadhi Roy**, Roderich Moessner  
   [[arXiv:2607.02506]](https://arxiv.org/abs/2607.02506)
 
 - Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking  
@@ -44,7 +44,7 @@ author_profile: true
 
 - Emergence of many-body chaos in the presence of quasiparticles  
   Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
-  [[Phys. Rev. B 114, 014306 (2026) (Editors' Suggestion)]](https://doi.org/10.1103/zkvh-dqqp)  
+  [[Phys. Rev. B 114, 014306 (2026) (Editors' Suggestion)]](https://doi.org/10.1103/zkvh-dqqp)  [[arXiv:2601.05238]](https://arxiv.org/abs/2601.05238)  
 
 - Krylov-space anatomy and spread complexity of a disordered quantum spin chain  
   Bikram Pain, David E. Logan, **Sthitadhi Roy**  
