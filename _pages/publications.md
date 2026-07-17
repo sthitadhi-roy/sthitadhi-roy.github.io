@@ -18,6 +18,11 @@ author_profile: true
 {% include base_path %}
 
 ### Preprints
+
+- Locality of deep thermalisation through the lens of entanglement teleportation  
+  Saptarshi Mandal, Alan Sherry, **Sthitadhi Roy**  
+  [[arXiv:2607.15276]](https://arxiv.org/abs/2607.15276)
+
 - On the emergence of quantum many-body chaos for tunably-broken integrability  
   Sounak Biswas, **Sthitadhi Roy**, Roderich Moessner  
   [[arXiv:2607.02506]](https://arxiv.org/abs/2607.02506)
