@@ -19,6 +19,10 @@ author_profile: true
 
 ### Preprints
 
+- Quantum Chaos and Diffusive Transport from Geometric Randomness  
+  Bibek Saha, Abhishek Dhar, **Sthitadhi Roy**. 
+  [[arXiv:2607.15276]](https://arxiv.org/abs/2607.28579)  
+
 - Locality of deep thermalisation through the lens of entanglement teleportation  
   Saptarshi Mandal, Alan Sherry, **Sthitadhi Roy**  
   [[arXiv:2607.15276]](https://arxiv.org/abs/2607.15276)
@@ -26,10 +30,6 @@ author_profile: true
 - On the emergence of quantum many-body chaos for tunably-broken integrability  
   Sounak Biswas, **Sthitadhi Roy**, Roderich Moessner  
   [[arXiv:2607.02506]](https://arxiv.org/abs/2607.02506)
-
-- Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking  
-  Bikram Pain, **Sthitadhi Roy**, Jens H. Bardarson, Ivan M. Khaymovich  
-  [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321)  
 
 - The damage spreading transition: a hierarchy of renormalization group fixed points  
   Adam Nahum and **Sthitadhi Roy**  
@@ -45,7 +45,13 @@ author_profile: true
   [[arXiv:2507.02853]](https://arxiv.org/abs/2507.02853)  
 
 
+
+
 ### Journal Articles
+
+- Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking  
+  Bikram Pain, **Sthitadhi Roy**, Jens H. Bardarson, Ivan M. Khaymovich  
+  [[Phys. Rev. Research (2026) (_in press_)]](https://doi.org/10.1103/34h6-sn4p) [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321) 
 
 - Emergence of many-body chaos in the presence of quasiparticles  
   Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
