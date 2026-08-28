@@ -19,8 +19,12 @@ author_profile: true
 
 ### Preprints
 
+- Dynamics of local information in random unitary circuits  
+  Ratul Thakur and **Sthitadhi Roy**  
+  [[arXiv:2608.27440]](https://arxiv.org/abs/2608.27440)  
+
 - Quantum Chaos and Diffusive Transport from Geometric Randomness  
-  Bibek Saha, Abhishek Dhar, **Sthitadhi Roy**. 
+  Bibek Saha, Abhishek Dhar, **Sthitadhi Roy**.
   [[arXiv:2607.28579]](https://arxiv.org/abs/2607.28579)  
 
 - Locality of deep thermalisation through the lens of entanglement teleportation  
@@ -39,7 +43,7 @@ author_profile: true
   Souvik Kundu, Arnab Seth, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
   [[arXiv:2602.23362]](https://arxiv.org/abs/2602.23362)  
 
-   
+
 
 
 
@@ -52,7 +56,7 @@ author_profile: true
 
 - Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking  
   Bikram Pain, **Sthitadhi Roy**, Jens H. Bardarson, Ivan M. Khaymovich  
-  [[Phys. Rev. Research (Letter) (2026) (_in press_)]](https://doi.org/10.1103/34h6-sn4p) [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321) 
+  [[Phys. Rev. Research (Letter) (2026) (_in press_)]](https://doi.org/10.1103/34h6-sn4p) [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321)
 
 - Emergence of many-body chaos in the presence of quasiparticles  
   Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
@@ -68,7 +72,7 @@ author_profile: true
 
 - Anderson localization in spatially structured random graphs  
   Bibek Saha and **Sthitadhi Roy**  
-  [[Phys. Rev. B 113, 144204 (2026)]](https://doi.org/10.1103/g6rc-mxq2) [[arXiv:2601.00220]](https://arxiv.org/abs/2601.00220) 
+  [[Phys. Rev. B 113, 144204 (2026)]](https://doi.org/10.1103/g6rc-mxq2) [[arXiv:2601.00220]](https://arxiv.org/abs/2601.00220)
 
 - Information phases of partial projected ensembles generated from random quantum states and scrambling dynamics  
   Alan Sherry, Saptarshi Mandal, and **Sthitadhi Roy**  
@@ -311,6 +315,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %} -->
-
-
-
