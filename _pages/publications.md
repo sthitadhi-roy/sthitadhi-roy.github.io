@@ -24,7 +24,7 @@ author_profile: true
   [[arXiv:2608.27440]](https://arxiv.org/abs/2608.27440)  
 
 - Quantum Chaos and Diffusive Transport from Geometric Randomness  
-  Bibek Saha, Abhishek Dhar, **Sthitadhi Roy**.
+  Bibek Saha, Abhishek Dhar, **Sthitadhi Roy**  
   [[arXiv:2607.28579]](https://arxiv.org/abs/2607.28579)  
 
 - Locality of deep thermalisation through the lens of entanglement teleportation  
@@ -52,11 +52,11 @@ author_profile: true
 
 - Imprints of information scrambling on eigenstates of a quantum chaotic system  
   Bikram Pain, Ratul Thakur, and **Sthitadhi Roy**  
-  [[Phys. Rev. B (Letter) (2026) (_in press_)]](https://journals.aps.org/prb/accepted/10.1103/r1gj-g99c) [[arXiv:2507.02853]](https://arxiv.org/abs/2507.02853)  
+  [[Phys. Rev. B 114, L140302 (2026) (Letter)]](https://doi.org/10.1103/r1gj-g99c) [[arXiv:2507.02853]](https://arxiv.org/abs/2507.02853)  
 
 - Robust Correlation-Induced Localization Under Time-Reversal Symmetry Breaking  
   Bikram Pain, **Sthitadhi Roy**, Jens H. Bardarson, Ivan M. Khaymovich  
-  [[Phys. Rev. Research (Letter) (2026) (_in press_)]](https://doi.org/10.1103/34h6-sn4p) [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321)
+  [[Phys. Rev. Research 8, L032037 (2026) (Letter)]](https://doi.org/10.1103/34h6-sn4p) [[arXiv:2604.02321]](https://arxiv.org/abs/2604.02321)
 
 - Emergence of many-body chaos in the presence of quasiparticles  
   Sibaram Ruidas, **Sthitadhi Roy**, Subhro Bhattacharjee, Roderich Moessner  
