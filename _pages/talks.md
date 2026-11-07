@@ -7,6 +7,18 @@ author_profile: true
 
 ### List of talks
 
+- *Information scrambling in disordered quantum many-body systems: an eigenstate-correlations perspective*, ICTP Prize ceremony talk, ICTP Trieste, Italy, 21 October 2026
+
+- *On the emergence of quantum many-body chaos in doped circuit*, [Phases, Caustics and Chaos: Classical and Quantum Aspects](https://www.icts.res.in/program/PCCCQA), ICTS-TIFR Bengaluru, 12 - 16 October 2026
+ 
+- *Statistics of Fock-space correlation lengths in the MBL phase* [Conference on Quantum matter beyond ergodicity and thermalization](https://www.iip.ufrn.br/en/events/quantum-matter-beyond-ergodicity-and-thermalization), IIP Natal, Brazil, 28 September - 09 October 2026
+
+- *Eigenstate correlations and the logarithmic spreading of entanglement in many-body localised systems*, [Programme on Quantum matter beyond ergodicity and thermalization](https://iip.ufrn.br/en/events/program-on-quantum-matter-beyond-ergodicity-and-thermalization), IIP Natal, Brazil, 23 September 2026
+
+- *On the emergence of quantum many-body chaos in doped circuits*, [CTCQOES](https://www.imsc.res.in/current_trends_classical_and_quantum_out_of_equilibrium_systems_ctcqoes), IMSc Chennai, 01-04 September 2026
+
+- *Locality of deep thermalisation and entanglement teleportation*, IACS Kolkata, 12 August 2026
+
 - *Information Phases in Scrambling Quantum Dynamics*, [QMAT 2026](https://www.jnu.ac.in/QMAT2026/), JNU Delhi, 05-08 July 2026  
 
 - *Information Phases in Scrambling Quantum Dynamics*, [Recent Progress in Quantum Chaos](https://www.rri.res.in/meetings/recent-progress-quantum-chaos), RRI Bengaluru, 04-08 May 2026  
