@@ -18,6 +18,14 @@ author_profile: true
 {% include base_path %}
 
 ### Preprints
+- Ensemble phase transitions in measurement-unitary hybrid quantum circuits  
+  Saptarshi Mandal and **Sthitadhi Roy**  
+  [[arXiv:2611.17322]](https://arxiv.org/abs/2611.17322)  
+
+- Statistics of Fock-space correlation lengths in the many-body localised phase  
+  Bibek Saha, David E. Logan,  **Sthitadhi Roy**  
+  [[arXiv:2611.17306]](https://arxiv.org/abs/2611.17306)  
+
 
 - Dynamics of local information in random unitary circuits  
   Ratul Thakur and **Sthitadhi Roy**  
